@@ -1,6 +1,6 @@
 {
-  "name": "LUCKY-MD-XFORCE MULT DEVICE",
-  "description": "LUCKY-MD-⁠XFORCE Whatsapp device bot made by FrediEzra to help Whatsapp users to enjoy while helping...",
+  "name": "༻꫞ 𝐶𝑜𝑑𝑒𝑥 ꫞༺ MULT DEVICE",
+  "description": "༻꫞ 𝐶𝑜𝑑𝑒𝑥 ꫞༺",
   "keywords": [
     "bot",
     "node",
@@ -61,7 +61,7 @@
     },
     "AUTO_STATUS_TEXT": {
       "description": "type your genuine status message",
-      "value": "💲YOUR STATUS VIEWED BY ☢️LUCKY-MD-⁠XFORCE☢️ SUCCESSFUL 😇✅✅",
+      "value": "💲YOUR STATUS VIEWED BY ༻꫞ 𝐶𝑜𝑑𝑒𝑥 ꫞༺ SUCCESSFUL 😇✅✅",
       "required": false
     },
     "AUTO_STATUS_REPLY": {
@@ -71,7 +71,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "☢️LUCKY-MD-XFORCE☢️",
+      "value": "༻꫞ 𝐶𝑜𝑑𝑒𝑥 ꫞༺",
       "required": false 
     },
     "CHAT_BOT": {
@@ -101,12 +101,12 @@
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "LUCKY-XFORCE••<=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTUdrSDd0eExyOTRQM2xUWWEvYzh5RTJpV1l3YlRqTFQyVUtVUEhMZVlVVT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMHl6V2JjQktmVG1EbFRXUFd4elRvK0FsNGlOcVpoS2YxT1J2WitJRnMyMD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJPTzlUTkZjcWthUHVoOGdzRlV5eXh2eWVJckZRNGIxWWNoV2tVdmdIc21FPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJLalZLL0xzN0R6V2JDTktINGQ3MTRrNWEvcWtTL1dCWTAwL1NNQTRRVlJVPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InlNRDA2aWVJb1JPcFNSQ0h4RmZLRVBmQlFKQXJJa3BBUVd4YlhEYjNEMzQ9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IndhWFpnZjJJUm9ZbHBxTTVSNm9hcWdKWDE2UElsZEdJTXlSVXV1aUxXa1U9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSUtDWkNzM2EvVXdsUytPaDQ3Y25qdDlPYS9kMVprWVlTdldmWW02TEdHMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUVkvVHdlc2l2bWlBYXloblFGUVBadkcra1ZZMWxDQlUzZ2EvRm1nREJEOD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ild6cHVGNEZkVGNjSTZMcEpYN0VXcHplSndDaFR1ZElsblAyZ3l6V3FlSnpWUDh6cUI3TVdiMkUyaWN5KytQVWt1V09uY2ppUTFSSGhnVGdpbjdtbURBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NTYsImFkdlNlY3JldEtleSI6IlE0VEJycXZVbk1QR0Q4YXFWa0Rack1qcnBOMzZNd3hlMHRmSzBWajliUlE9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiMjM0ODA1ODQ5NjYwNUBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiJGQ0ZFM0U2Q0Y0MjAyNzlBQkE0NEQ1Mzc4OUI4ODk4MyJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzUyMTA1NTM5fSx7ImtleSI6eyJyZW1vdGVKaWQiOiIyMzQ4MDU4NDk2NjA1QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IkNGOEM3RTIyNkI5REVEQjJFN0E0ODIyNDI5NzJGRjIzIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NTIxMDU1NDV9XSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjEsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6ImgweXYtWnloUWFpVHN2amZtR0gyb3ciLCJwaG9uZUlkIjoiOTNlOTkwYWEtMjIyNi00Y2VmLTg2MzUtYWI0MTNkN2FiOTA3IiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkF6YTdpRnJhelF1Y2VrZjk5Tm1ab0I4UmZHRT0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJGQnZIQjQwQU5nUkIzbnpvOGJPd3hJelpZbTg9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiRlJFREVaUkEiLCJtZSI6eyJpZCI6IjIzNDgwNTg0OTY2MDU6NTlAcy53aGF0c2FwcC5uZXQiLCJsaWQiOiI1NjE1MzAwNjQwNzY4NDo1OUBsaWQiLCJuYW1lIjoi4piG4L+Q4Ly14L294LyG4LySIPCdkarwnZKQ8J2ShfCdkobwnZKZIPCdkbjwnZKC8J2SgvCdkpTwnZKK8J2SjiDgvJLgvIbgv5DgvLXgvb0ifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0s2NTB2SUdFS2VFdk1NR0dBTWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6InVkRU5RLytjeHhWUUNSbHVNcXpxQVZDa3RnbS82eEZiWlJ6MFA2R0M3Ujg9IiwiYWNjb3VudFNpZ25hdHVyZSI6IndZanVjeWJmOGRLdWJzazNNWE1SaStYN3k2czc4Y3ZsNTV0Qmh6UElCOGNlYTFuVkVoYWppNlFWQnl0NXI0NUNMdUkvNldwSjU0SE0vbmVmS3pzdUFRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJwUmFnTFRHZWdDc1pGb2s0WU84Y1EzUkJaMDVMTWtGZkhwMTJXMG1hTUF6Y0lCcVNDQXBRTUpNZmR4emVEVUQveEEydzdkbGN5UEc4VkdjTDVNby9DQT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjIzNDgwNTg0OTY2MDU6NTlAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCYm5SRFVQL25NY1ZVQWtaYmpLczZnRlFwTFlKditzUlcyVWM5RCtoZ3UwZiJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsInJvdXRpbmdJbmZvIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0FnSURRPT0ifSwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzUyMTA1NTI1LCJsYXN0UHJvcEhhc2giOiIyRzRBbXUiLCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQU9DaCJ9",
       "required": true
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "FrediEzra",
+      "value": "༻꫞ 𝐶𝑜𝑑𝑒𝑥 ꫞༺",
       "required": false
     },
     "URL": {
@@ -121,7 +121,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "255752593977",
+      "value": "2348058496605",
       "required": false
     },
     "WARN_COUNT": {
